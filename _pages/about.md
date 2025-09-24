@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+NUO is currently a graduate student in the School of Journalism and Communication at Nanjing University, where she is pursuing an M.A. in Communication. Prior to this, she obtained a B.A. in Journalism from the same school. During her studies, NUO participated in an exchange program at Yonsei University (2024–2025) and undertook a short-term visiting program at the University of Oxford in February 2024.
+NUO’s research interests lie in urban memory and the study of marginalized communities, with a broader aim to understand how media and communication shape collective experiences and social narratives. Outside of academia, she enjoys photography, traveling, music, and exploring practices such as divination, which together reflect an inquisitive and creative personality (INTP).
 
 
 # 🎖 Honors and Awards
@@ -32,5 +31,15 @@ M.A. in Communication, *Sep 2025 – Present*
 - Nanjing University, School of Journalism and Communication
 B.A. in Journalism, *Sep 2021 – Jun 2025*
 
+# 📚 Exchange & Visiting Programs
+- Yonsei University (South Korea), School of Communication
+Exchange Program, *Sep 2024 – Dec 2025*
+-University of Oxford (UK)
+Visiting Student, *Feb 2024*
+
+# 🤾‍♀️ Extracurricular Experience
+- Nanjing University, Communist Youth League Committee Student Association Management Department
+Deputy Director, *Sep 2021 – Jun 2023*
 # 💻 Internships
-- *2024.06 - 2024.09*, 重庆日报实习记者
+- Chongqing Daily
+  Trainee journalist, *2024.06 - 2024.09*
