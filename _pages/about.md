@@ -32,6 +32,12 @@ M.A. in Communication, *Sep 2025 – Present*
 - Nanjing University, School of Journalism and Communication
 B.A. in Journalism, *Sep 2021 – Jun 2025*
 
+# 🏫 Exchange & Visiting Programs
+- Yonsei University (South Korea), School of Communication
+Exchange Program, *Sep 2024 – Dec 2025*
+- University of Oxford (UK)
+Visiting Student, *Feb 2024*
+
 # 🏄‍♀️ Extracurricular Experience
 - Nanjing University, Communist Youth League Committee Student Association Management Department
 Deputy Director, *Sep 2021 – Jun 2023*
