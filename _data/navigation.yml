@@ -8,15 +8,15 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+  
+  - title: "Exchange & Visiting Programs"
+    url: "/#-exchange--visiting-programs"
 
-- title: "Exchange & Visiting Programs"
-  url: "/#-exchange--visiting-programs"
+  - title: "Extracurricular Experience"
+    url: "/#-extracurricular-experience"
 
-- title: "Extracurricular Experience"
-  url: "/#-extracurricular-experience"
-
-- title: "Internships"
-  url: "/#-internships"
+  - title: "Internships"
+    url: "/#-internships"
 
 
 
