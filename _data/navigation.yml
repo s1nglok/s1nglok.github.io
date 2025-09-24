@@ -13,7 +13,7 @@ main:
     url: "/#-exchange--visiting-programs"
 
   - title: "Extracurricular Experience"
-    url: "/#-extracurricular-experience"
+    url: "#extracurricular-experience"
     
   - title: "Internships"
     url: "/#-internships"
