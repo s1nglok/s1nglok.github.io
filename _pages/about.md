@@ -21,11 +21,12 @@ NUO is currently a graduate student in the School of Journalism and Communicatio
 
 NUO’s research interests lie in urban memory and the study of marginalized communities, with a broader aim to understand how media and communication shape collective experiences and social narratives. Outside of academia, she enjoys photography, traveling, music, and exploring practices such as divination, which together reflect an inquisitive and creative personality (INTP).
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2022.12* 人民奖学金 
 - *2023.12* 国家奖学金 
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - Nanjing University, School of Journalism and Communication
 
@@ -34,6 +35,7 @@ M.A. in Communication, *Sep 2025 – Present*
 
 B.A. in Journalism, *Sep 2021 – Jun 2025*
 
+<span class='anchor' id='exchange--visiting-programs'></span>
 # 🏫 Exchange & Visiting Programs
 - Yonsei University (South Korea), School of Communication
 
@@ -48,6 +50,7 @@ Visiting Student, *Feb 2024*
 
 Deputy Director, *Sep 2021 – Jun 2023*
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 - Chongqing Daily
 
