@@ -37,7 +37,7 @@ Exchange Program, *Sep 2024 – Dec 2025*
 -University of Oxford (UK)
 Visiting Student, *Feb 2024*
 
-# 🤾‍♀️ Extracurricular Experience
+# 🏄‍♀️ Extracurricular Experience
 - Nanjing University, Communist Youth League Committee Student Association Management Department
 Deputy Director, *Sep 2021 – Jun 2023*
 
