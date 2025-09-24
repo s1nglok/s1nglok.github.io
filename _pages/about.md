@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 NUO is currently a graduate student in the School of Journalism and Communication at Nanjing University, where she is pursuing an M.A. in Communication. Prior to this, she obtained a B.A. in Journalism from the same school. During her studies, NUO participated in an exchange program at Yonsei University (2024–2025) and undertook a short-term visiting program at the University of Oxford in February 2024.
+
 NUO’s research interests lie in urban memory and the study of marginalized communities, with a broader aim to understand how media and communication shape collective experiences and social narratives. Outside of academia, she enjoys photography, traveling, music, and exploring practices such as divination, which together reflect an inquisitive and creative personality (INTP).
 
 
