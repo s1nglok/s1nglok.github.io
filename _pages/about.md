@@ -42,6 +42,7 @@ Exchange Program, *Sep 2024 – Dec 2025*
 
 Visiting Student, *Feb 2024*
 
+<span class='anchor' id='extracurricular-experience'></span>
 # 🏄‍♀️ Extracurricular Experience
 - Nanjing University, Communist Youth League Committee Student Association Management Department
 
